@@ -1,4 +1,4 @@
-# Predicting Material Properties from Composition using Machine Learning
+# Predicting Material Properties using Machine Learning
 
 ## Project overview
 

@@ -25,8 +25,8 @@ The proposed system utilizes a supervised machine learning approach to predict s
     *   `scikit-learn` for machine learning algorithms (e.g., `RandomForestRegressor`) and model evaluation.
     *   `numpy` for numerical operations.
     *   `matplotlib` and `seaborn` for data visualization.
-*   **Development Environment:** Jupyter Notebooks are used for interactive development and analysis. {Link: Jupyter notebooks https://github.com/shsarv/Machine-Learning-Projects/blob/main/README.md}
-
+*   **Development Environment:** Jupyter Notebooks are used for interactive development and analysis.
+*   
 ## Algorithm and deployment
 
 ### Algorithm selection

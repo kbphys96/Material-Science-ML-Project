@@ -49,8 +49,8 @@ All DFT calculations performed using PBE function.
 
 ### Training process
 
-The model is trained using a split of the dataset (e.g., 80% for training, 20% for testing). 
-k-fold cross-validation are employed to tune hyperparameters and ensure the model generalizes well to new, unseen material compositions.
+* The model is trained using a split of the dataset (e.g., 80% for training, 20% for testing). 
+* k-fold cross-validation are employed to tune hyperparameters and ensure the model generalizes well to new, unseen material compositions.
 
 ### Prediction process
 

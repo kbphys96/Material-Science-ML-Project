@@ -26,7 +26,7 @@ The proposed system utilizes a supervised machine learning approach to predict s
     *   `numpy` for numerical operations.
     *   `matplotlib` and `seaborn` for data visualization.
 *   **Development Environment:** Jupyter Notebooks are used for interactive development and analysis.
-*   
+   
 ## Algorithm and deployment
 
 ### Algorithm selection
